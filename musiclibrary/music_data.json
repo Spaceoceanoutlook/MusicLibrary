@@ -1,0 +1,380 @@
+{
+  "Academic Music": {
+    "Liszt": {
+      "songs": [
+        "Liszt - La Campanella (Paganini Etude No. 3).mp3",
+        "Liszt - Années de pèlerinage - Tarantella (Excerpt).mp3",
+        "Liszt – Nocturne No. 3 Liebestraum.mp3",
+        "Liszt - Piano Concerto No. 1 in E-flat major - III. Allegretto vivace.mp3",
+        "Liszt - Piano Concerto No. 1 in E-flat major - IV. Allegro marziale animato.mp3",
+        "Liszt - Piano Concerto No. 1 in E-flat major - I. Allegro maestoso.mp3",
+        "Liszt - Hungarian Rhapsody No. 2 in cis-moll, S.244.mp3",
+        "Liszt - Les Préludes, Symphonic Poem No. 3, S. 97.mp3"
+      ]
+    },
+    "Grieg": {
+      "songs": [
+        "Grieg - Peer Gynt Suite No. 2, Op. 55 - IV. Solveigs Song.mp3",
+        "Grieg - Peer Gynt, Suite No.1, Op. 46 - III. Anitra's Dance.mp3",
+        "Grieg - 4 Norwegian Dances, Op. 35 - II. Allegro tranquillo e grazioso.mp3",
+        "Grieg - Peer Gynt, Suite No.1, Op. 46 - I. Morning Mood (Allegretto pastorale).mp3",
+        "Grieg - Piano Concerto in A Minor, Op. 16 - I. Allegro molto moderato.mp3",
+        "Grieg - Peer Gynt, Suite No.1, Op. 46 - IV. In the Hall of the Mountain King.mp3",
+        "Grieg - Piano Concerto in A minor, Op.16  - III. Allegro moderato molto e marcato.mp3",
+        "Grieg - Lyric Pieces Book V, Op.54 - 3. March Of The Dwarfs.mp3"
+      ]
+    },
+    "Dvorak": {
+      "songs": [
+        "Dvorak - Slavonic Dances Op. 46 No.1 in C (Presto).mp3",
+        "Dvorak - Symphony No. 8 in G-Sharp Major, Op. 88 - III Allegretto grazioso.mp3",
+        "Dvorak - Slavonic Dances Op. 46 No.7 in C minor (Allegro assai).mp3",
+        "Dvorak - Symphony No. 9 in E Minor, Op. 95 - IV. Allegro con fuoco.mp3",
+        "Dvorak - Slavonic Dances Op. 46 No.3 in A flat (Poco allegro).mp3",
+        "Dvorak - Cello Concerto In B Minor, Op.104, B. 191 - 1. Allegro.mp3",
+        "Dvorak - Slavonic Dances Op. 46 No.2 in E minor (Allegretto scherzando).mp3",
+        "Dvorak - Serenade for Strings, Op. 22 - 2. Minuet. Allegro con moto - Trio.mp3",
+        "Dvorak - Slavonic Dances Op. 72 No.2 In E Minor (Allegretto grazioso).mp3",
+        "Dvorak - Symphony No. 9 in E Minor, Op. 95 - I. Adagio - Allegro molto.mp3",
+        "Dvorak - Symphony No. 7 in D minor, Op.70 - 3. Scherzo (Vivace).mp3"
+      ]
+    },
+    "Скрябин": {
+      "songs": [
+        "Скрябин - Etude in D-Sharp Minor, Op. 8, No. 12.mp3",
+        "Скрябин - Piano Sonata in G-Sharp Minor Op. 19, No. 2, Sonata Fantasy - 1. Andante.mp3",
+        "Скрябин - Piano Concerto in F-Sharp Minor, Op. 20 I. Allegro.mp3",
+        "Скрябин - Piano Concerto in F-Sharp Minor, Op. 20 II. Andante.mp3",
+        "Скрябин - Piano Sonata in G-Sharp Minor Op. 19, No. 2, Sonata Fantasy - 2. Presto.mp3",
+        "Скрябин - Piano Concerto in F-Sharp Minor, Op. 20 III. Allegro.mp3",
+        "Скрябин - Etude in C-sharp minor, Op. 2, No. 1.mp3",
+        "Скрябин - Piano Sonata No.3, op.23 - I. Drammatico.mp3"
+      ]
+    },
+    "1. Произведения зарубежных композиторов": {
+      "songs": [
+        "Verdi - La traviata, Act I - Libiamo ne' lieti calici.mp3",
+        "Rossini - Il Barbiere di Siviglia  Act 1 - No. 2 Cavatina Largo al factotum.mp3",
+        "Poulenc - Trois mouvements perpétuels, FP 14 - III. Alerte.mp3",
+        "Rossini - La gazza ladra_  Overture.mp3",
+        "Debussy - Prelude a l'apres-midi d'un faune.mp3",
+        "Verdi - Il Trovatore (Anvil Chorus).mp3",
+        "Rossini - Il Barbiere di Siviglia - Overture.mp3",
+        "Albeniz - Suite Espanola No. 1, Op. 47 V. Asturias (Excerpt).mp3",
+        "Wagner - Tannh__user, WWV 70 - Overture.mp3",
+        "Schumann - Kinderszenen, Op. 15 - 7. Tr__umerei.mp3",
+        "Wagner - Der fliegende Holl__nder, WWV 63 - Overture.mp3",
+        "Bizet - Carmen - Suite No. 1 Prelude to Act I Allegro giocoso The Toreadors.mp3",
+        "Verdi - Requiem, Dies irae.mp3",
+        "Carl Orff - O Fortuna.mp3",
+        "Verdi - Rigoletto, Act 3 - La donna __ mobile.mp3",
+        "Offenbach - Orphée aux Enfers, Act II Can-can.mp3",
+        "Vivaldi - The Four Seasons, Op. 8, RV 269, La primavera (Spring) - I. Allegro.mp3",
+        "Haydn - Piano Sonata in E minor, H.XVI No. 34 - 1. Presto.mp3",
+        "Wagner - Lohengrin, WWV 75, Act 3 - Prelude.mp3",
+        "Satie - Trois Gymnopedies Gymnopedie No.1.mp3",
+        "Joaquin Rodrigo - Concierto de Aranjuez - II. Adagio.mp3",
+        "Rodrigo - Concierto de Aranjuez Adagio.mp3",
+        "Mahler - Symphony No. 5 in C-Sharp Minor - II. Stürmisch bewegt.mp3",
+        "Vivaldi - The Four Seasons, Op. 8, RV 315, L'estate (Summer) - III. Presto.mp3",
+        "Mahler - Symphony No. 4 in G Major - III. Ruhevoll (Poco adagio).mp3",
+        "Mahler - Symphony No. 4 in G Major - I. Bedächtig. Nicht eilen. Recht gemächlich.mp3",
+        "Berlioz - Symphonie fantastique, Op. 14, H. 48 II. Un bal.mp3",
+        "Haydn - Piano Concerto in D major Hob.XVIII No.11 - I. Vivace.mp3",
+        "Rossini - Guillaume Tell Overture - Andante.mp3",
+        "Bizet - Carmen - Suite No. 2 Habanera Allegretto quasi Andantino from Act I.mp3",
+        "Ponchielli - La Gioconda, Act III Dance of the Hours.mp3",
+        "Strauss - Also sprach Zarathustra, Op.30 - Einleitung.mp3",
+        "Strauss II - Voices of Spring, Op. 410.mp3",
+        "Vivaldi - The Four Seasons, Op. 8, RV 297, L'inverno (Winter) - I. Allegro non molto.mp3",
+        "Delibes - Sylvia, Act III Pizzicati.mp3",
+        "Boccherini - String Quintet in A Major, Op. 11, G. 275 III. Minuetto.mp3",
+        "Haydn - Piano Sonata in E minor, H.XVI No. 34 - 3. Vivace molto, innocentemente.mp3",
+        "Bartok - Piano Concerto No. 2, BB 101, Sz. 95 - 3. Allegro molto.mp3",
+        "Albinoni - Adagio for Strings and Organ in G Minor.mp3",
+        "Strauss II - Annen-Polka, Op.117.mp3",
+        "Poulenc - Piano Concerto in C sharp minor, FP. 146 - II. Andante con moto.mp3",
+        "Handel - Suite No. 4 In D Minor For Harpsichord, HWV 437 - Sarabande.mp3",
+        "Franck - Symphonic Variations, FWV 46.mp3",
+        "Vivaldi - The Four Seasons, Op. 8, RV 293, L'autunno (Autumn) - I. Allegro.mp3",
+        "Rossini - Paraphrase on Figaro's Aria from Barber of Seville (piano vers).mp3",
+        "Strauss II - An der sch__nen blauen Donau, Op. 314.mp3",
+        "Schumann - Piano Concerto in A Minor, Op. 54 - I. Allegro affettuoso.mp3",
+        "Mahler - Symphony No. 4 in G Major - II. In gemächlicher Bewegung. Ohne Hast.mp3",
+        "Delibes - Lakmé - Flower Duet.mp3",
+        "Franck - Piano Concerto No. 2 in B minor, Op.11 - III. Rondo - Allegro.mp3",
+        "Schumann - Symphony No.2 In C, Op.61 - 3. Adagio espresssivo.mp3",
+        "Bizet - Carmen - Suite No. 1 Prelude to Act I Entr'Acte between Act III.mp3",
+        "Franck - Les djinns in F-Sharp Minor, FWV 45.mp3",
+        "Ravel - Piano Concerto in G Major, M. 83 - 1. Allegramente.mp3"
+      ]
+    },
+    "Schubert": {
+      "songs": [
+        "Schubert - Piano Sonata No. 20 in A major, D959 – II. Andantino.mp3",
+        "Schubert - Piano Sonata No. 19 in C minor D958 - IV Allegro.mp3",
+        "Schubert - 12 Lieder von Franz Schubert, S.558 No. 4. Erlkönig (arr. Liszt).mp3",
+        "Berliner Philharmoniker, Herbert von Karajan - Schubert_ Symphony No. 8 in B Minor, D. 759 _Unfinished_ - 2. Andante con moto.mp3",
+        "Schubert - Symphony No. 9 in C, D.944 - 2. Andante con moto.mp3",
+        "Schubert - Schwanengesang, D957 Ständchen.mp3",
+        "The Chamber Orchestra of Europe. Claudio Abbado - Schubert - Symphony No.8 in B minor 'Unfinished'. I Allegro moderato.mp3",
+        "Schubert - Symphony No. 9 in C, D.944 - 3. Scherzo (Allegro vivace).mp3",
+        "Schubert & Liszt  - Ellens Gesang III (Ave Maria) S558 No. 3.mp3",
+        "Schubert - 12 Lieder von Franz Schubert, S.558, No. 2.mp3",
+        "Schubert - Impromptu, Op. 90, No. 4 in A flat Allegretto.mp3",
+        "Franz Schubert - Ave Maria, ''Ellens Gesang III'', D. 839.mp3",
+        "Berliner Philharmoniker, Herbert von Karajan - Schubert_ Symphony No. 8 in B Minor, D. 759 _Unfinished_ - 1. Allegro moderato.mp3",
+        "Schubert - Fantasy in F minor, D. 940 Op. 103 - 1. Allegro molto moderato.mp3",
+        "Schubert - 6 Moment Musicaux, Op.94 D780 - No. 3 In F Minor.mp3",
+        "Schubert - Symphony No. 8 - 1. Allegro moderato.mp3"
+      ]
+    },
+    "2. Произведения русских композиторов": {
+      "songs": [
+        "Глинка - Вальс-фантазия.mp3",
+        "Хренников - Piano Concerto No.  2 - III. Rondo. Giocoso. Andantino.mp3",
+        "Стравинский - The Firebird, Pt. 1 Infernal Dance of All Kashchei's Subjects.mp3",
+        "Рубинштейн - Piano Concerto No. 4 in D Minor, Op. 70 - I. Moderato assai.mp3",
+        "Бородин - Symphony No. 2 in B Minor - I. Allegro.mp3",
+        "Рубинштейн - Piano Concerto No. 4 in D Minor, Op. 70 III. Allegro.mp3",
+        "Метнер - Sonata in f-moll, Op.5 - I. Allegro.mp3",
+        "Стравинский - Concerto In D For String Orchestra - 2. Arioso. Andantino.mp3",
+        "Аренский - Symphony No. 1, Op. 4, II. Andante pastorale con moto.mp3",
+        "Метнер - Piano Concerto No. 1 c-moll, Op. 33 - I. Allegro.mp3",
+        "Хачатурян - Piano Concerto in D-flat major, Op. 38 - II. Andante con anima.mp3",
+        "Глинка - Романс Жаворонок.mp3",
+        "Аренский - Symphony No. 1, Op. 4, I. Adagio - Allegro patetico.mp3",
+        "Щедрин - Конёк-горбунок - Полёт конька.mp3",
+        "Хачатурян - Piano Concerto in D-flat major, Op. 38 - I. Allegro ma non troppo e maestoso.mp3",
+        "Стравинский - Петрушка - Scene 4 - Dance Of The Wet-Nurses.mp3",
+        "Бородин - Prince Igor - Polovtsian Dances.mp3",
+        "Стравинский - The Firebird, Symphonic Suite -  V. Lullaby.mp3"
+      ]
+    },
+    "Chopin": {
+      "songs": [
+        "Chopin - Piano Concerto No. 2 in F Minor, Op.21 - 1. Maestoso.mp3",
+        "Chopin - Piano Concerto No. 1 in E Minor, Op. 11 - 3. Rondo.mp3",
+        "Chopin - Piano Concerto No. 1 in E Minor, Op. 11 - 1. Allegro maestoso.mp3",
+        "Chopin - Waltz No. 10 in B Minor, Op. 69, No. 2.mp3",
+        "Chopin - Nocturne No. 20 in cis-moll.mp3",
+        "Chopin - Prelude No. 4 in E Minor, Op. 28.mp3",
+        "Chopin - Waltz No. 6 in D Flat, Op. 64 No. 1 - Minute.mp3",
+        "Chopin - Waltz No. 7 in C Sharp Minor, Op. 64, No. 2.mp3",
+        "Chopin - Impromptu No. 4 Op. 66 in C sharp minor 'Fantaisie-Impromptu'.mp3",
+        "Chopin - Piano Sonata No. 3 in B Minor, Op. 58 - I. Allegro maestoso.mp3",
+        "Chopin - Mazurka No. 13 In A Minor Op.17 No.4.mp3",
+        "Chopin - Piano Concerto No. 2 in F Minor, Op.21 - 2. Larghetto.mp3",
+        "Chopin - Nocturne No. 2 in E-Flat Major, Op. 9.mp3",
+        "Chopin - Scherzo No. 2 Op. 31.mp3",
+        "Chopin - Piano Sonata No. 3 in B minor, Op.58 - 4. Finale (Presto non tanto).mp3"
+      ]
+    },
+    "Римский-Корсаков": {
+      "songs": [
+        "Римский-Корсаков - Шехеразада - Рассказ царевича Календера.mp3",
+        "Римский-Корсаков - Piano Concerto in C-Sharp Minor, Op. 30.mp3",
+        "Римский-Корсаков - Шехеразада - Море и Синдбадов корабль.mp3",
+        "Римский-Корсаков - Сказка о царе Салтане - Полёт шмеля.mp3"
+      ]
+    },
+    "Mendelssohn": {
+      "songs": [
+        "Mendelssohn - Symphony No. 3 in A Minor, Op. 56, 'Scottish' - IV. Allegro vivacissimo.mp3",
+        "Mendelssohn - Concerto for Piano, Violin, and Strings in D minor, MWV O4 - III. Allegro Molto.mp3",
+        "Mendelssohn - Symphony No. 3 in A Minor, Op. 56, 'Scottish' - I. Andante con moto.mp3",
+        "Mendelssohn - Piano Concerto No. 1 in G minor Op.25 - III Presto - Molto allegro vivace.mp3",
+        "Mendelssohn - A Midsummer Night's Dream, Incidental Music, Op. 61 - I. Scherzo.mp3",
+        "Mendelssohn - Symphony No. 2 in B flat major Op.52, 'Hymn of Praise' - Allegretto un poco agitato.mp3",
+        "Mendelssohn - Concerto in A Minor for Piano  Strings, MWV O2 - 1. Allegro.mp3",
+        "Mendelssohn - Symphony No. 4 in A Major, Op. 90, 'Italian' - I. Allegro vivace.mp3",
+        "Mendelssohn - Lieder ohne Worte, Op. 62 - 6. Allegretto.mp3",
+        "Mendelssohn - Concerto for Piano, Violin, and Strings in D minor, MWV O4 - II. Adagio.mp3",
+        "Mendelssohn - Symphony No. 1 in C Minor, Op. 11 - I. Allegro molto.mp3",
+        "Mendelssohn - Piano Concerto No.1 in G minor Op.25 - I. Molto allegro con fuoco.mp3",
+        "Mendelssohn - Piano Concerto No. 2 in D minor Op.40 - I Allegro appassionato.mp3",
+        "Mendelssohn - Concerto for Piano, Violin, and Strings in D minor, MWV O4 - I. Allegro.mp3"
+      ]
+    },
+    "Чайковский": {
+      "songs": [
+        "Чайковский - Symphony No.3 D-dur, Op.29 - IV. Scherzo. Allegro vivo.mp3",
+        "Чайковский - Щелкунчик - Dance of the Reed Pipes.mp3",
+        "Чайковский - Спящая красавица - Valse.mp3",
+        "Чайковский - Symphony No.6 In B Minor, Op. 74, TH.30 - 2. Allegro con grazia.mp3",
+        "Чайковский - Piano Concerto No. 1 in B flat minor Op. 23 - I. Allegro non troppo.mp3",
+        "Чайковский - Symphony No.5 In E Minor, Op.64, TH.29 - 3. Valse (Allegro moderato).mp3",
+        "Чайковский - Щелкунчик - Waltz of the Snowflakes.mp3",
+        "Чайковский - Symphony  No.3 D-dur, Op.29 - II. Alla tedesca. Allegro moderato e semplice.mp3",
+        "Чайковский - Щелкунчик - Trepak (Russian Dance).mp3",
+        "Чайковский - Щелкунчик - Dance Of The Sugar-Plum Fairy.mp3",
+        "Чайковский - Serenade for Strings in C, Op.48 - 1. Pezzo in forma di sonatina.mp3",
+        "Чайковский - Евгений Онегин - Полонез.mp3",
+        "Чайковский - Щелкунчик - Pas de deux Intrada.mp3",
+        "Чайковский - Славянский марш, Op.31.mp3",
+        "Чайковский - Лебединое озеро - 6. Scène finale..mp3",
+        "Чайковский - Лебединое озеро - 10. Scène Moderato Piu mosso.mp3",
+        "Чайковский - Щелкунчик - Waltz Of The Flowers.mp3",
+        "Чайковский - Symphony No.6, B Minor. Op 74 Ч.4, Finale. Adagio Lamentoso. Andante.mp3",
+        "Чайковский - Лебединое озеро - 13. - IV. Allegro moderato.mp3",
+        "Чайковский - The Seasons, Op. 37a, TH 135 No. 6 in G Minor, June. Barcarolle.mp3",
+        "Чайковский - Щелкунчик - No. 2 March.mp3",
+        "Чайковский - Piano Concerto No. 1 in B flat minor Op. 23 - III. Allegro con fuoco.mp3",
+        "Чайковский - Лебединое озеро - 2. Waltz.mp3",
+        "Чайковский - Лебединое озеро - 29. Scène finale Andante Allegro agitato Alla breve. Moderato e maestoso.mp3",
+        "Чайковский - Concert Fantasy for Piano and Orchestra, Op.56 - II. Contrastes.mp3"
+      ]
+    },
+    "Beethoven": {
+      "songs": [
+        "Beethoven - Piano Sonata No. 14 In C Sharp Minor, Op. 27 No. 2 Moonlight - Adagio sostenuto.mp3",
+        "Beethoven - Piano Concerto No. 3 in C Minor, Op. 37 III. Rondo. Allegro.mp3",
+        "Beethoven - Piano Sonata No. 14 in C sharp minor, Op. 27 No. 2 Moonlight - Presto.mp3",
+        "Beethoven - Rondo a capriccio in G Major, Op. 129.mp3",
+        "Beethoven - Piano Sonata No 3 in C Op 2 No 3 - I.Allegro con brio.mp3",
+        "Beethoven - Piano Sonata No. 8 In C Minor, Op.13 - 3. Rondo (Allegro).mp3",
+        "Beethoven - Symphony No. 5 In C Minor Op. 67 - I. Allegro con brio.mp3",
+        "Beethoven - Piano Concerto No. 4 in G major - III. Rondo (Vivace).mp3",
+        "Beethoven - Piano Sonata No. 23 F Minor, Op. 57 Appassionata - I. Allegro assai.mp3",
+        "Beethoven - Piano Concerto No.2 in B flat major, Op.19 - III. Rondo (Molto allegro).mp3",
+        "Beethoven - Piano Sonata No. 17 In D Minor, Op. 31 No. 2  - Allegretto.mp3",
+        "Beethoven - Piano Concerto No. 1 in C Major, Op. 15 - III. Rondo.mp3",
+        "Beethoven - Music To Goethe's Tragedy Egmont , Op. 84.mp3",
+        "Beethoven - Bagatelle in A Minor, WoO 59, 'Fur Elise' ПЛОХОЕ КАЧЕСТВО.mp3",
+        "Beethoven - Symphony No. 9 - IV. Presto.mp3",
+        "Beethoven - Symphony No. 9 - II. Molto vivace.mp3",
+        "Beethoven - Piano Concerto No. 4 in G major - I. Allegro moderato.mp3",
+        "Beethoven - Piano Sonata No 3 in C Op 2 No 3 - IV. Allegro assai.mp3",
+        "Beethoven - Piano Sonata No. 1 in F Minor, Op. 2 No. 1 - I. Allegro.mp3"
+      ]
+    },
+    "Saint-Saens": {
+      "songs": [
+        "Saint-Saens - Le carnaval des animaux XIII. Le cygne.mp3",
+        "Saint-Saens - Piano Concerto No. 5, Op. 103 - I. Allegro animato.mp3",
+        "Saint-Saens - Le carnaval des animaux VII. Aquarium.mp3",
+        "Saint-Saens - Le Rouet d'Omphale, Op. 31.mp3",
+        "Saint-Saens - Piano Concerto No. 2 in G minor, Op. 22 - III. Presto.mp3",
+        "Saint-Saens - Piano Concerto No. 5, Op. 103 - III. Molto allegro.mp3",
+        "Saint-Saens - Piano Concerto No. 2 in G minor, Op. 22 - I. Andante sostenuto.mp3",
+        "Saint-Saens - Piano Concerto No. 4 in C minor, Op. 44 - II. Allegro vivace - Andante - Allegro.mp3",
+        "Saint-Saens - Danse macabre, Op. 40.mp3",
+        "Saint-Saens - Piano Concerto No. 2 in G minor, Op. 22 - II. Allegro scherzando.mp3",
+        "Saint-Saens - Piano Concerto No. 3 in E-flat major, Op. 29 - 1. Moderato assai.mp3"
+      ]
+    },
+    "Bach": {
+      "songs": [
+        "Bach - Prelude and Fugue No. 1 in C Major, BWV 846 - 1. Prelude.mp3",
+        "Bach - Prelude and Fugue No. 3 in C-Sharp, BWV 848 - 2. Fugue.mp3",
+        "Bach - Orchestral Suite No. 3 in D Major, BWV 1068 - Air.mp3",
+        "Bach - Toccata and Fugue in D minor, BWV 565.mp3",
+        "Bach - Prelude and Fugue No. 3 in C-Sharp, BWV 848 - 1. Prelude.mp3",
+        "Bach - Suite in E Minor, BWV 996 - V. Bourrée.mp3",
+        "Bach - Prelude and Fugue No. 2 in C Minor, BWV 847 - 2. Fugue.mp3",
+        "Bach - Prelude and Fugue No. 6 in D Minor, BWV 851 - 1. Prelude.mp3",
+        "Bach - Prelude and Fugue No. 2 in C Minor, BWV 847 - 1. Prelude.mp3",
+        "Bach - Prelude and Fugue No. 5 in D Major, BWV 850 - 1. Prelude.mp3",
+        "Bach - Prelude and Fugue No. 14 in F-Sharp Minor, BWV 859 - 1. Prelude.mp3",
+        "Bach - Orchestral Suite No. 2 In B Minor - Badinerie.mp3",
+        "Bach - Cello Suite No. 1 in G Major, BWV 1007 I. Prelude.mp3",
+        "Bach - Invention No. 13 in A minor, BWV 784.mp3"
+      ]
+    },
+    "Шостакович": {
+      "songs": [
+        "Шостакович - Piano Concerto No. 2 in F major Op. 102 - II. Andante.mp3",
+        "Шостакович - Piano Concerto No. 1, Op. 35 - IV. Allegro brio.mp3",
+        "Шостакович - Piano Concerto No. 1, Op. 35 - I. Allegro moderato.mp3",
+        "Шостакович - Piano Concerto No. 2 in F major Op. 102 - I. Allegro.mp3",
+        "Шостакович - Symphony No. 8 in C Minor, Op. 65 III. Allegro non troppo.mp3"
+      ]
+    },
+    "Мусоргский": {
+      "songs": [
+        "Мусоргский - Картинки с выставки - 6. Тюильрийский сад.mp3",
+        "Мусоргский - Картинки с выставки - 11. Прогулка.mp3",
+        "Мусоргский - Картинки с выставки - 8. Прогулка.mp3",
+        "Мусоргский - Ночь на лысой горе.mp3",
+        "Мусоргский - Картинки с выставки - 1. Прогулка.mp3",
+        "Мусоргский - Картинки с выставки - 7. Скот.mp3",
+        "Мусоргский - Картинки с выставки - 14. Избушка на курьих ножках.mp3",
+        "Мусоргский - Картинки с выставки - 9. Балет невылупившихся птенцов.mp3",
+        "Мусоргский - Картинки с выставки - 2. Гном.mp3",
+        "Мусоргский - Картинки с выставки - 3. Прогулка.mp3"
+      ]
+    },
+    "Mozart": {
+      "songs": [
+        "Mozart - Piano Sonata No.8 in A minor, K.310 - 1. Allegro maestoso.mp3",
+        "Mozart - Piano Sonata No.11 In A, K.331 -Alla Turca - 3. Alla Turca (Allegretto).mp3",
+        "Mozart - Serenade in G Major, K.525 - IV. Rondo (Allegro).mp3",
+        "Mozart - Fantasia In D Minor, K397 - Andante.mp3",
+        "Mozart - Piano Concerto No. 23 in A K488 - II. Adagio.mp3",
+        "Mozart - Symphony No. 40 in G Minor K550 - I. Molto allegro.mp3",
+        "Mozart - Piano Concerto No. 23 in A K488 - I. Allegro.mp3",
+        "Mozart - Serenade in G Major, K.525 - II. Romance.mp3",
+        "Mozart - Piano Sonata No.8 in A minor, K.310 - 3. Presto.mp3",
+        "Mozart - Les noces de Figaro K492 - Ouverture.mp3",
+        "Mozart - Piano Concerto No. 4 K41- II. Andante.mp3",
+        "Mozart - Piano Concerto No. 21 in C K467 - II. Andante.mp3",
+        "Mozart - Piano Sonata No.16 in C Major, K. 545 Sonata facile - 1. Allegro.mp3",
+        "Mozart - Piano Concerto No. 20 in D minor K466 - I. Allegro.mp3",
+        "Mozart - Piano Concerto No. 20 in D Minor, K. 466 - 3. Rondo (Allegro assai).mp3",
+        "Mozart - Serenade in G Major, K.525 - I. Allegro.mp3"
+      ]
+    },
+    "Brahms": {
+      "songs": [
+        "Brahms - Hungarian Dance No. 5 in G Minor.mp3",
+        "Brahms - Hungarian Dance No. 1 in G Minor.mp3",
+        "Brahms - Variations on a Theme by Paganini, Op. 35.mp3",
+        "Brahms - Symphony No. 3 in F Major, Op. 90 - III. Poco allegretto.mp3",
+        "Brahms - Piano Concerto No. 2 in B-flat major, Op. 83 - IV. Allegretto grazioso.mp3"
+      ]
+    },
+    "Прокофьев": {
+      "songs": [
+        "Прокофьев - Поручик Киже - Романс.mp3",
+        "Прокофьев - Symphony No. 1 in D Major, Op. 25 - II. Larghetto.mp3",
+        "Прокофьев - Петя и Волк - Andantino.mp3",
+        "Прокофьев - Romeo And Juliet, Op.64  Act 3 - 44. At Friar Laurence's Cell.mp3",
+        "Прокофьев - Piano Concerto No. 3 in C Major, Op.26 - III. Allegro ma non troppo.mp3",
+        "Прокофьев - Piano Concerto No. 3 in C Major, Op.26 - I. Andante - Allegro.mp3",
+        "Прокофьев - Symphony No. 1 in D Major, Op. 25 - I. Allegro.mp3",
+        "Прокофьев - Piano Concerto No. 1 in D-flat Major, Op. 10 - II. Andante assai.mp3",
+        "Прокофьев - Любовь к трём апельсинам - Марш.mp3",
+        "Прокофьев - Piano Concerto No. 2, Op.16 - I. Andantino.mp3",
+        "Прокофьев - Romeo And Juliet, Op.64  Act 1 - 6. The Fight.mp3",
+        "Прокофьев - Romeo And Juliet, Op.64  Act 1 - 18. Gavotte.mp3",
+        "Прокофьев - Romeo And Juliet, Op.64  Act 1 - 13. Dance Of The Knights.mp3",
+        "Прокофьев - Piano Concerto No. 2, Op.16 - II. Scherzo (Vivace).mp3",
+        "Прокофьев - Symphony No. 7 in C sharp minor, op.131 - I. Moderato.mp3",
+        "Прокофьев - Symphony No. 1 in D Major, Op. 25 - III. Gavotte.mp3"
+      ]
+    },
+    "Рахманинов": {
+      "songs": [
+        "Рахманинов - Piano Concerto No. 2 in C Minor, Op. 18 III. Allegro scherzando.mp3",
+        "Рахманинов - Piano Concerto No. 2 in C Minor, Op. 18 II. Adagio sostenuto.mp3",
+        "Рахманинов - Piano Concerto No. 3 in D Minor, Op. 30 III. Finale.mp3",
+        "Рахманинов - Piano Concerto No. 4 in G minor, Op. 40 - I. Allegro vivace.mp3",
+        "Рахманинов - Vocalise, Op.  34, No. 14 (Philadelphia Orchestra Live 1929).mp3",
+        "Рахманинов - Etude-Tableaux op. 33 , Nr. 5 d-moll Moderato.mp3",
+        "Рахманинов - Symphony No. 2 in E minor, Op.27 - 3. Adagio (Extract).mp3",
+        "Рахманинов - Piano Concerto No. 2 in C Minor, Op. 18 I. Moderato - allegro.mp3",
+        "Рахманинов - Moments Musicaux, Op. 16 IV. Presto.mp3",
+        "Рахманинов - Symphonic Dances, Op. 45 I. Non allegro.mp3",
+        "Рахманинов - Prelude in g-moll Op. 23 No. 5.mp3",
+        "Рахманинов - Preludes, Op. 32, No. 12 in G-sharp minor, Allegro.mp3",
+        "Рахманинов - Rhapsody On A Theme Of Paganini, Op.43.mp3",
+        "Рахманинов - Italian Polka For Piano Duet.mp3",
+        "Рахманинов - Piano Concerto No. 1 in F-Sharp Minor, Op. 1 I. Vivace.mp3",
+        "Рахманинов - Morceaux de Fantaisie, Op. 3 II. Prelude.mp3",
+        "Рахманинов - Piano Concerto No. 3 in D Minor, Op. 30 I. Allegro ma non tanto.mp3",
+        "Рахманинов - Morceaux de Fantaisie, Op. 3 I. Elegie.mp3",
+        "Рахманинов - Symphony No. 3 in A Minor, Op. 44 I. Lento - Allegro moderato.mp3"
+      ]
+    }
+  }
+}
