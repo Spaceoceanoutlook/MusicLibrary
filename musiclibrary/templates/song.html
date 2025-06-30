@@ -3,10 +3,10 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{{ song }}</title>
+        <title>{{ song | replace('.mp3', '') }}</title>
     </head>
     <body>
-        <h1>{{ song }}</h1>
+        <h1>{{ song | replace('.mp3', '') }}</h1>
             <audio controls>
                 <source src="{{ audio_url }}" type="audio/mpeg" />
             </audio>

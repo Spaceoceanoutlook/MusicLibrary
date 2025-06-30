@@ -33,8 +33,9 @@
                 <ul class="song-list">
                     {% for song in content.songs %}
                     <li class="song-item">
-                        <a href="{{ url_for('get_song', song=song) }}"
-                            >{{ song }}</a
+                        <a
+                            href="{{ url_for('get_song', song=song.replace('.mp3', '')) }}"
+                            >{{ song | replace('.mp3', '') }}</a
                         >
                     </li>
                     {% endfor %}

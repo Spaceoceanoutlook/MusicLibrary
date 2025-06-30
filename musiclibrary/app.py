@@ -41,7 +41,7 @@ def get_song(request: Request, song: str):
         {
             "request": request,
             "song": song,
-            "audio_url": f"/music/{song}"
+            "audio_url": f"/music/{song}.mp3"
         }
     )
 
