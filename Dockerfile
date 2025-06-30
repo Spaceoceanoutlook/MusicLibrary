@@ -11,8 +11,6 @@ RUN pip install --no-cache-dir --upgrade pip \
 
 COPY . .
 
-RUN mkdir -p /var/www/music && chmod 777 /var/www/music
-
 VOLUME ["/var/www/music"]
 
 EXPOSE 8000
